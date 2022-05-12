@@ -1,0 +1,15 @@
+C:\Programação\TestTrade\TestTrade\bin\Debug\net6.0\TestTrade.exe
+C:\Programação\TestTrade\TestTrade\bin\Debug\net6.0\TestTrade.deps.json
+C:\Programação\TestTrade\TestTrade\bin\Debug\net6.0\TestTrade.runtimeconfig.json
+C:\Programação\TestTrade\TestTrade\bin\Debug\net6.0\TestTrade.dll
+C:\Programação\TestTrade\TestTrade\bin\Debug\net6.0\TestTrade.pdb
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.csproj.AssemblyReference.cache
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.AssemblyInfoInputs.cache
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.AssemblyInfo.cs
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.csproj.CoreCompileInputs.cache
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.dll
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\refint\TestTrade.dll
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.pdb
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\TestTrade.genruntimeconfig.cache
+C:\Programação\TestTrade\TestTrade\obj\Debug\net6.0\ref\TestTrade.dll
